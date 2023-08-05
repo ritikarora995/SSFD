@@ -1,5 +1,4 @@
 # Social Serving Food Delivery System
-This project was undertaken by Vivek Jaiswal, Shivansh Shukla and Likhith Reddy Morreddigari for the course Software Engineering Laboratory (CS29202).
 ## Objective
 Social Serving Food Delivery System(SSFDS) is a portal for a non-profit organisation (NPO)
 that tracks leftover food from restaurants and hotels and uses it for several purposes.
