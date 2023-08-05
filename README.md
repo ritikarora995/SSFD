@@ -35,5 +35,3 @@ npm install
 ```
 ---
 
-## Features
-For features look up the document [here](https://drive.google.com/file/d/1rNpU5uw7CcVou1oBPumZlaL6d6FMlDvi/view?usp=sharing)
